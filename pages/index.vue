@@ -21,6 +21,8 @@
           GitHub
         </a>
       </div>
+
+      <nuxt-link to="/test">TestBtn</nuxt-link>
     </div>
   </div>
 </template>
